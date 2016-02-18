@@ -4,21 +4,14 @@
         <description><![CDATA[eightcorners]]></description>
         <link>https://thegrid.ai/eightcorners/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 03:31:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 03:55:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eightcorners/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Currently on the reading list:]]></title>
-            <description><![CDATA[<article><h1>Currently on the reading list:</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96ca27df-1d4e-4712-bd3b-56f12112702d.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Currently on the reading list:</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb84d593f631a1718cf165e8b18736891e9cae60.png"></article>]]></description>
             <link>https://thegrid.ai/eightcorners/currently-on-the-reading-list/index.html</link>
             <guid isPermaLink="false">c0e401ca-3457-4028-a340-b0931b52fca9</guid>
             <pubDate>Thu, 18 Feb 2016 03:31:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/389b27f7-b99c-47f2-b14a-f09866ff3dbf.png">]]></description>
-            <link>https://thegrid.ai/eightcorners/ec92f53a-57a6-4f1b-b77b-77a366dc2d67/index.html</link>
-            <guid isPermaLink="false">ec92f53a-57a6-4f1b-b77b-77a366dc2d67</guid>
-            <pubDate>Wed, 17 Feb 2016 13:11:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
