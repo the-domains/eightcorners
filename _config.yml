@@ -1,7 +1,7 @@
 name: eightcorners
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.74749
+typography_spectrum: 0.90781
 collections:
   - index:
       path: /
@@ -36,5 +36,5 @@ color:
   brandStrength: 0.75
   lightness: 1
   saturation: 0.875
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []
