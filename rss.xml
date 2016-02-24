@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[eightcorners]]></title>
-        <description><![CDATA[eightcorners]]></description>
+        <title><![CDATA[Eight Corners: Design. Travel. Live.]]></title>
+        <description><![CDATA[Eight Corners: Design. Travel. Live.]]></description>
         <link>https://thegrid.ai/eightcorners/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 15:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 11:42:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eightcorners/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23bb1f20-4075-48f8-bc12-dd91d757fad2.png">]]></description>
+            <link>https://thegrid.ai/eightcorners/29e03e6b-2847-4a76-809b-131486bdbf75/index.html</link>
+            <guid isPermaLink="false">29e03e6b-2847-4a76-809b-131486bdbf75</guid>
+            <pubDate>Wed, 24 Feb 2016 11:42:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New portfolio site in the works!]]></title>
             <description><![CDATA[<article><h1>New portfolio site in the works!</h1><p>Let's create your brand identity, not just through logos and materials that capture your brand's essence but by incorporating elements and delightful details that provide a great experience for your audience. It's a two-way conversation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9bb140506bdc33bef593ef2bcd4a0cddd1829be.jpg"></article>]]></description>
