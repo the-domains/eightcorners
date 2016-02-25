@@ -4,8 +4,15 @@
         <description><![CDATA[Eight Corners: Design. Travel. Live.]]></description>
         <link>https://thegrid.ai/eightcorners/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 12:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 01:28:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eightcorners/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Eight Corners Blog]]></title>
+            <description><![CDATA[<article><h1>Eight Corners Blog</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1601ddcc-3537-4d91-8feb-724968f371f7.png"></article>]]></description>
+            <link>https://thegrid.ai/eightcorners/eight-corners-blog/index.html</link>
+            <guid isPermaLink="false">b1721cc6-889b-4567-96fe-02e15593b1f3</guid>
+            <pubDate>Thu, 25 Feb 2016 01:27:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Subscribe to the blog]]></title>
             <description><![CDATA[<article><h1>Subscribe to the blog</h1><p>Subscribe to the blog (and get the link to your FREE design kit).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e91b59ebbb7fefd0e4788390c45498c8063d3e74.png"></article>]]></description>
