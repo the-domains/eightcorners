@@ -1,4 +1,4 @@
-name: eightcorners
+name: Eight Corners Blog
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.42889
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#eaecf0'
-    - '#795684'
-    - '#a7a7a7'
-    - '#222222'
-    - '#ce78a6'
-  brandStrength: 0.75
+    - '#ffffff'
+    - '#c044cd'
+    - '#414141'
+    - '#e4c5e8'
+    - '#949494'
+  brandStrength: 0.5
   lightness: 1
-  saturation: 0.875
+  saturation: 0.9375
   rhythmicContrast: 1
 purpose: []
