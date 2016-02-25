@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-25T02:45:35.064Z'
-dateModified: '2016-02-24T11:46:54.436Z'
+datePublished: '2016-02-25T05:58:53.821Z'
+dateModified: '2016-02-25T05:58:46.053Z'
 author: []
 title: Renew. Rebrand.
 sourcePath: _posts/2016-02-23-new-portfolio-site-in-the-works.md
@@ -41,4 +41,4 @@ It's time that I step away from the wallpaper (like one of those trendy faux-bri
 
 This time I will be baring more of my soul, the real me. Because I got to know her a bit more in the past few years, and she's got some pretty cool stories that need to be told. ;-)
 
-[0]: gretchenorischong.com
+[0]: http://eightcorners.co/
