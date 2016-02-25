@@ -1,7 +1,7 @@
 name: Eight Corners Blog
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.75024
+typography_spectrum: 0.76689
 collections:
   - index:
       path: /
@@ -37,5 +37,5 @@ color:
   brandStrength: 0.5
   lightness: 1
   saturation: 0.9375
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
