@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: 'Eight Corners Blog on Travel, Design, Life.'
+title: Eight Corners
 cta:
   domain: null
   bucket: null
