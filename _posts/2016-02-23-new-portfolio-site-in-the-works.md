@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-24T11:46:45.563Z'
-dateModified: '2016-02-24T11:46:25.110Z'
+datePublished: '2016-02-25T02:45:35.064Z'
+dateModified: '2016-02-24T11:46:54.436Z'
 author: []
 title: Renew. Rebrand.
 sourcePath: _posts/2016-02-23-new-portfolio-site-in-the-works.md
