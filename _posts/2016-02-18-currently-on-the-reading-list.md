@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "You don't need a job, you need guts."
-datePublished: '2016-02-28T09:10:29.353Z'
-dateModified: '2016-02-28T08:44:18.565Z'
+datePublished: '2016-02-28T09:14:16.141Z'
+dateModified: '2016-02-28T09:14:13.090Z'
 author: []
 title: 'Currently on the reading list:'
 sourcePath: _posts/2016-02-18-currently-on-the-reading-list.md
