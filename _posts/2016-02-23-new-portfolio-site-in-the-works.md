@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-25T05:58:53.821Z'
-dateModified: '2016-02-25T05:58:46.053Z'
+datePublished: '2016-02-28T09:09:29.064Z'
+dateModified: '2016-02-28T09:09:06.228Z'
 author: []
 title: Renew. Rebrand.
 sourcePath: _posts/2016-02-23-new-portfolio-site-in-the-works.md
@@ -39,6 +39,6 @@ I'll still have lifestyle and travel articles, with a smattering of design think
 
 It's time that I step away from the wallpaper (like one of those trendy faux-brick ones that look so real that's going to be my next home improvement project). 
 
-This time I will be baring more of my soul, the real me. Because I got to know her a bit more in the past few years, and she's got some pretty cool stories that need to be told. ;-)
+This time I will be baring more of my soul, the real me. Because I got to know her a bit more in the past few years, and she's got some pretty cool stories to share. ;-)
 
 [0]: http://eightcorners.co/
