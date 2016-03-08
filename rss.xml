@@ -4,7 +4,7 @@
         <description><![CDATA[Eight Corners]]></description>
         <link>http://blog.eightcorners.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 01:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 01:24:47 GMT</lastBuildDate>
         <atom:link href="http://blog.eightcorners.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Eight Corners Blog]]></title>
@@ -12,6 +12,13 @@
             <link>http://gretchenorischong.com</link>
             <guid isPermaLink="false">b0995bab-50a9-4957-aef0-78c950cdbb59</guid>
             <pubDate>Thu, 25 Feb 2016 21:21:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Top Inspirational Books]]></title>
+            <description><![CDATA[<article><h1>Top Inspirational Books</h1><h2>Steve Jobs by Walter Isaacson</h2><p>Books, People, and Videos that Inspire You to Stay Hungry and Stay Foolish</p></article>]]></description>
+            <link>http://blog.eightcorners.co/top-inspirational-books/index.html</link>
+            <guid isPermaLink="false">aa3a149f-4e49-4d79-888a-a5d5c6b63073</guid>
+            <pubDate>Tue, 08 Mar 2016 01:23:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eight Corners Awards]]></title>
