@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Visiting Melbourne? Here are our favourite spots that we always recommend to visiting guests, family and friends.'
-datePublished: '2016-03-17T22:48:38.994Z'
-dateModified: '2016-03-17T22:48:03.772Z'
+datePublished: '2016-03-17T22:51:07.049Z'
+dateModified: '2016-03-17T22:48:49.666Z'
 title: Best of Melbourne 2016
 author: []
 sourcePath: _posts/2016-03-08-best-of-melbourne-2016.md
@@ -144,7 +144,7 @@ Kino ($8 Mondays)
 
 ### BEST UGGS
 
-### Ugg Australia -- note, .com.au not .com! This one is the real deal https://www.uggaustralia.com.au/about/our-story
+Ugg Australia -- note, .com.au not .com! This one is the real deal https://www.uggaustralia.com.au/about/our-story
 
 ### BEST VIEWS (FREE)
 
