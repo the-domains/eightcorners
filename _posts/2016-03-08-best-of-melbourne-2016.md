@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "A Visitor's Guide To The Best Places in Melbourne, As Recommended by A Local"
-datePublished: '2016-03-08T01:03:57.671Z'
-dateModified: '2016-03-08T01:03:43.171Z'
+description: 'Visiting Melbourne? Here are our favourite spots that we always recommend to visiting guests, family and friends.'
+datePublished: '2016-03-17T22:48:38.994Z'
+dateModified: '2016-03-17T22:48:03.772Z'
 title: Best of Melbourne 2016
 author: []
+sourcePath: _posts/2016-03-08-best-of-melbourne-2016.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-best-of-melbourne-2016.md
-published: true
 url: best-of-melbourne-2016/index.html
 _type: Article
 
@@ -77,10 +77,6 @@ Wat Da Pho, South Melbourne
 ### BEST COFFEE
 
 Hmm I'll get back to you on this but so far I would say it's Patricia Coffee!
-
-### BEST DUMPLINGS (CHEAP EATS)
-
-Shanghai Street Dumplings
 
 ### BEST DUMPLINGS (SPLURGE: AROUND $50/HEAD)
 
@@ -148,7 +144,15 @@ Kino ($8 Mondays)
 
 ### BEST UGGS
 
-Ugg Australia -- note, .com.au not .com! This one is the real deal https://www.uggaustralia.com.au/about/our-story
+### Ugg Australia -- note, .com.au not .com! This one is the real deal https://www.uggaustralia.com.au/about/our-story
+
+### BEST VIEWS (FREE)
+
+### Shrine of Remembrance
+
+### BEST VIEWS (NOT FREE)
+
+### Rialto Towers (Cost: a drink/cocktail and dressing up (this is a high-end bar))Eureka Tower (Cost: Under $20)
 
 ### BEST WEEKEND GETAWAY
 
@@ -156,6 +160,4 @@ Mornington Peninsula -- penguins, beach, hot springs, wineries, great food, and 
 Well, folks, that's our little wrap up to the year, our little way to give thanks, and wish everyone an amazing 2016! We'd be sure to share any new discoveries we come across in the next year and beyond.
 
 If you have recommendations, please feel free to let us know in the comments below!
-
-#### _Happy 2016!_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d216971a-478e-4f27-a6d6-1e0279eeb066.jpg)
