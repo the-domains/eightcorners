@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Visiting Melbourne? Here are our favourite spots that we always recommend to visiting guests, family and friends.'
-datePublished: '2016-03-17T22:52:25.464Z'
-dateModified: '2016-03-17T22:51:17.205Z'
+datePublished: '2016-03-17T22:54:12.821Z'
+dateModified: '2016-03-17T22:54:09.044Z'
 title: Best of Melbourne 2016
 author: []
 sourcePath: _posts/2016-03-08-best-of-melbourne-2016.md
@@ -148,11 +148,11 @@ Ugg Australia -- note, .com.au not .com! This one is the real deal https://www.u
 
 ### BEST VIEWS (FREE)
 
-### Shrine of Remembrance
+Shrine of Remembrance
 
 ### BEST VIEWS (NOT FREE)
 
-### Rialto Towers (Cost: a drink/cocktail and dressing up (this is a high-end bar))Eureka Tower (Cost: Under $20)
+Rialto Towers (Cost: a drink/cocktail and dressing up (this is a high-end bar))Eureka Tower (Cost: Under $20)
 
 ### BEST WEEKEND GETAWAY
 
