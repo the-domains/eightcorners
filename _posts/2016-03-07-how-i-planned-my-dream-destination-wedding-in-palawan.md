@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Tips and tricks on planning a dream destination wedding
-datePublished: '2016-03-07T23:18:59.894Z'
-dateModified: '2016-03-07T23:18:50.446Z'
+description: 'Planning your dream destination wedding can be daunting—I had to do months of research when I was planning mine, and I had trouble finding a definitive guide that would have saved me time doing all the research.'
+datePublished: '2016-03-22T04:42:26.029Z'
+dateModified: '2016-03-22T04:41:59.717Z'
 title: How I Planned My Dream Destination Wedding in Palawan
 author: []
 authors: []
