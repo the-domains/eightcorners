@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "And sometimes, we drown out the things seeking our attention with even more noise. (Or when you spray perfume in your hair because you didn't have time to wash it—deep down, you know it still really reeks and you hope no one would get closer.)"
-datePublished: '2016-03-29T00:26:03.858Z'
-dateModified: '2016-03-29T00:25:51.129Z'
+datePublished: '2016-03-29T04:48:26.787Z'
+dateModified: '2016-03-29T04:48:16.923Z'
 title: Embrace The Emptiness
 author: []
+sourcePath: _posts/2016-03-29-embrace-the-emptiness.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-29-embrace-the-emptiness.md
-published: true
 url: embrace-the-emptiness/index.html
 _type: Article
 
@@ -39,13 +39,14 @@ where they tried to bond by sharing personal revelations: something personal tha
 Recently, as many of my friends and family know, I have been in search of my own truth. After years of drowning in noise and serving others so that I can safely ignore my own needs, as somehow I grew up thinking they were not important, I've come to this point.
 
 I've done meditation, and I've used it to focus and drown out noise around me so I can focus on writing, for instance. Yet I realised that (after listening to Tim Ferriss and Josh Waitzkin) focus is useless if you're focused on the things that don't really matter to you.
+
+Ash Ambirge mentions this in her awesome new project 
+
+[Unf\*ckwithable Girlfriends:][1]
 ![Watercolor Quote: Listen to yourself.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/00245a3b3dfa7e148e654b097c10c6bee9382810.jpg)
 
-Ash Ambirge also mentions this in her awesome new project 
-
-[Unf\*ckwithable Girlfriends: Listen to yourself.][1]
-
-### If you're not actively working on the most important things in the world to you, what's the point of your work at all?---Ash Ambirge,[The Middle Finger Project][2]
+  
+If you're not actively working on the most important things in the world to you, what's the point of your work at all?---Ash Ambirge,[The Middle Finger Project][2]
 
 I've jumped hoops and tried to take the easy way out by filling my days with new obsessions or goals. Maybe it's creating a new app. Or starting a design practice. Or writing a blog. Or writing a book on destination weddings. Joining a training course. Or spending too much time on Facebook..."networking".
 
