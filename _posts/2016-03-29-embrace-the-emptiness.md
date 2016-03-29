@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "And sometimes, we drown out the things seeking our attention with even more noise. (Or when you spray perfume in your hair because you didn't have time to wash it—deep down, you know it still really reeks and you hope no one would get closer.)"
-datePublished: '2016-03-29T04:48:26.787Z'
-dateModified: '2016-03-29T04:48:16.923Z'
+description: There is so much noise in this world. So many things are wanting our attention.
+datePublished: '2016-03-29T11:27:09.206Z'
+dateModified: '2016-03-29T11:27:00.660Z'
 title: Embrace The Emptiness
 author: []
 sourcePath: _posts/2016-03-29-embrace-the-emptiness.md
@@ -45,8 +45,7 @@ Ash Ambirge mentions this in her awesome new project
 [Unf\*ckwithable Girlfriends:][1]
 ![Watercolor Quote: Listen to yourself.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/00245a3b3dfa7e148e654b097c10c6bee9382810.jpg)
 
-  
-If you're not actively working on the most important things in the world to you, what's the point of your work at all?---Ash Ambirge,[The Middle Finger Project][2]
+If you're not actively working on the most important things in the world to you, what's the point of your work at all?---Ash Ambirge, [The Middle Finger Project][2]
 
 I've jumped hoops and tried to take the easy way out by filling my days with new obsessions or goals. Maybe it's creating a new app. Or starting a design practice. Or writing a blog. Or writing a book on destination weddings. Joining a training course. Or spending too much time on Facebook..."networking".
 
@@ -58,9 +57,9 @@ And listen. Don't listen to just anything or anyone else. Just listen to yoursel
 
 And the only way to listen to yourself is to embrace the emptiness. Close that Facebook tab...or log out, if you dare. Disable your wifi. Listen.
 
-We've been conditioned to think empty is bad, especially during the reign of extroverts. That it's lonely. Yet it's only lonely if you don't think you deserve to hear yourself. (And I don't mean this in a creepy way, especially if you're hearing a voice with an evil laugh like Cruella De Vil's---but even then I'm pretty sure your real self will tell you something's wrong and that maybe you need to talk to someone first.)
+We've been conditioned to think empty is bad, especially during the reign of extroverts. That it's lonely. Yet it's only lonely if you don't think you deserve to hear yourself. (And I don't mean this in a creepy way, especially if you're hearing a voice with an evil laugh like Cruella De Vil's---but even then I'm pretty sure your real self will tell you something's wrong and that maybe you need to talk to someone first. ;P )
 
-And the only way to hear you is to first be empty so that I could hear yourself better. Much like an empty room - this is the place when you can hear your own footsteps...your breathing...your heartbeat...your heart.
+And the only way to hear you is to first empty yourself of the noise so that you could hear yourself better. Much like an empty room - this is the place when you can hear your own footsteps...your breathing...your heartbeat...your heart.
 
 So many of us are doing so many things to be heard. To be validated.
 
