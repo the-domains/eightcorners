@@ -5,24 +5,24 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: My favourite thing on the Internet.
-datePublished: '2016-03-29T02:47:42.618Z'
-dateModified: '2016-03-29T02:47:38.975Z'
+description: "If you're like me and you've been struggling to start the online business of your dreams since you first started to learn about the internet, but getting confused with all the noise, then come along and join! \_Let's build businesses that matter to us, and also have fun in the process. Can't get any better than that. :)"
+datePublished: '2016-03-29T23:18:31.698Z'
+dateModified: '2016-03-29T23:18:24.160Z'
 title: 'Unf*ckwithable Girlfriends'
 author: []
+sourcePath: _posts/2016-03-29-unfckwithable-girlfriends.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-29-unfckwithable-girlfriends.md
-published: true
 url: unfckwithable-girlfriends/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7dd9f4ab-84f0-44e7-8ea7-308a2021589a.png)
+![Eight Corner's Favourites: Unf*ckwithable Girlfriends](https://s3-us-west-2.amazonaws.com/the-grid-img/p/31cc3ec5efa4ea7967830562ea70fbb6f5687971.png)
 
 If you're like me and you've been struggling to start the online business of your dreams since you first started to learn about the internet, but getting confused with all the noise, then come along and join!    
 Let's build businesses that matter to us, and also have fun in the process. Can't get any better than that. :)
