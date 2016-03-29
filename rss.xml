@@ -4,7 +4,7 @@
         <description><![CDATA[Eight Corners]]></description>
         <link>http://blog.eightcorners.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 12:30:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 00:26:45 GMT</lastBuildDate>
         <atom:link href="http://blog.eightcorners.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Design Hacks for Your Business]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.eightcorners.co/design-hacks-for-your-business/index.html</link>
             <guid isPermaLink="false">737b21e2-969a-44e3-957d-cb4f41a8f2f5</guid>
             <pubDate>Fri, 18 Mar 2016 02:31:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[If you’re not actively working on the most important things in the world to you, what’s the point of your work at all?—Ash Ambirge,The Middle Finger Project]]></title>
+            <description><![CDATA[<article><h1>If you’re not actively working on the most important things in the world to you, what’s the point of your work at all?—Ash Ambirge,The Middle Finger Project</h1><p>And sometimes, we drown out the things seeking our attention with even more noise. (Or when you spray perfume in your hair because you didn't have time to wash it—deep down, you know it still really reeks and you hope no one would get closer.)</p></article>]]></description>
+            <link>http://blog.eightcorners.co/embrace-the-emptiness/index.html</link>
+            <guid isPermaLink="false">78ca5c62-3fc4-433e-9df9-ebc32f029bc4</guid>
+            <pubDate>Tue, 29 Mar 2016 00:26:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unf*ckwithable Girlfriends]]></title>
@@ -68,13 +75,6 @@
             <link>urn:uuid:88e65ced-85ba-44cb-8d0c-8228c285c5e5</link>
             <guid isPermaLink="false">dd35b1ba-36c5-4e6b-9a85-50fe76331181</guid>
             <pubDate>Sun, 28 Feb 2016 09:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Currently on the reading list:]]></title>
-            <description><![CDATA[<article><h1>Currently on the reading list:</h1><p>You Don't Need a Job, You Need Guts</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0252e75b2f457a6cc8c6b47b1618ce7c13367213.png"></article>]]></description>
-            <link>urn:uuid:605cdb39-a264-478f-9627-4d556c20db1f</link>
-            <guid isPermaLink="false">c0e401ca-3457-4028-a340-b0931b52fca9</guid>
-            <pubDate>Sun, 28 Feb 2016 09:14:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
