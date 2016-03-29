@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Hello, everyone. I know, I missed Week 10, but here are some juicy new links for you that will totally make up for my being AWOL.'
-datePublished: '2016-03-18T02:31:36.064Z'
-dateModified: '2016-03-18T02:31:21.568Z'
+datePublished: '2016-03-29T00:31:15.192Z'
+dateModified: '2016-03-29T00:29:02.345Z'
 title: Design Hacks for Your Business
 author: []
 authors: []
