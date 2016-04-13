@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "For the past few years, I've realised that for creatives (web designers, graphic designers,\_photographers,\_copywriters\_and writers) is tougher than anything else I've ever attempted in my life."
-datePublished: '2016-04-13T04:57:48.794Z'
-dateModified: '2016-04-13T04:57:26.241Z'
+datePublished: '2016-04-13T05:08:34.266Z'
+dateModified: '2016-04-13T05:08:19.997Z'
 title: Creative Business Resources
 author: []
+sourcePath: _posts/2016-04-13-creative-business-resources.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-creative-business-resources.md
-published: true
 url: creative-business-resources/index.html
 _type: Article
 
