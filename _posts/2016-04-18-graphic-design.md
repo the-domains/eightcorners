@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Almost everybody knows Canva, but I'm still including it as a hack for those who don't know about it yet. It's great for quick graphics and inspiration. With Canva for work, you get the convenience of having consistent visuals. But if you prefer to use it for free, check out Design Feed (a tool I've classified under social media due to its main purpose of providing ease for generating social media graphics)."
-datePublished: '2016-04-18T07:18:34.853Z'
-dateModified: '2016-04-18T07:12:41.398Z'
+datePublished: '2016-04-18T07:18:52.041Z'
+dateModified: '2016-04-18T07:18:41.099Z'
 title: Graphic Design
 author: []
 sourcePath: _posts/2016-04-18-graphic-design.md
