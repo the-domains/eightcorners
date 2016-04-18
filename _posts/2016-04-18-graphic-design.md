@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Almost everybody knows Canva, but I'm still including it as a hack for those who don't know about it yet. It's great for quick graphics and inspiration. With Canva for work, you get the convenience of having consistent visuals. But if you prefer to use it for free, check out Design Feed (a tool I've classified under social media due to its main purpose of providing ease for generating social media graphics)."
-datePublished: '2016-04-18T06:45:48.236Z'
-dateModified: '2016-04-18T06:45:42.308Z'
+datePublished: '2016-04-18T06:50:51.086Z'
+dateModified: '2016-04-18T06:50:17.426Z'
 title: Graphic Design
 author: []
 sourcePath: _posts/2016-04-18-graphic-design.md
@@ -22,7 +22,7 @@ url: graphic-design/index.html
 _type: Article
 
 ---
-Design Resources: 8 Amazing Design Hacks for your Business or Blog
+# Design Resources: 8 Amazing Design Hacks for your Business or Blog
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16fbc7ca-b365-4a5f-9a8a-f400343f925b.jpg)
 
 # Graphic Design
