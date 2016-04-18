@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-18T11:38:16.874Z'
-dateModified: '2016-04-18T07:55:57.595Z'
+datePublished: '2016-04-18T11:42:57.241Z'
+dateModified: '2016-04-18T11:42:36.785Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-18-design-resources.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-design-resources.md
-published: true
 url: design-resources/index.html
 _type: Article
 
