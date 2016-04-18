@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "For the past few years, I've realised that for creatives (web designers, graphic designers,\_photographers,\_copywriters\_and writers) is tougher than anything else I've ever attempted in my life."
-datePublished: '2016-04-13T05:09:49.562Z'
-dateModified: '2016-04-13T05:09:35.938Z'
+description: "For the past few years, I've realised that for creatives (web designers, graphic designers, photographers, copywriters and writers), starting a business is tougher than anything else I've ever attempted in my life."
+datePublished: '2016-04-18T04:54:36.582Z'
+dateModified: '2016-04-18T04:54:24.994Z'
 title: Creative Business Resources
 author: []
 sourcePath: _posts/2016-04-13-creative-business-resources.md
@@ -40,11 +40,13 @@ Then there are days when you just need the extra boost. So you scour the Interne
 
 After years of scouring, I thought I would share the best ones that I've found, so you don't have to spend too much time searching. 
 
-Without further ado, here are my favourite Internet your business (and mental) health:
+Without further ado, here are my favourite resources for your business (and mental) health as a creative:
 
 # Unf\*ckwithable Girlfriends at The Middle Finger Project
 
-Probably the greatest business resource out there for creatives. Ash Ambirge is a genius at empowering creatives, helping you get through impostor syndrome, how to talk to clients, and much more. I love that it's practical, powerful, and fun. Business doesn't all have to be serious.
+Probably the greatest business resource out there for creatives. One of the key things that hold us back in business is mindset and the right processes.
+
+Ash Ambirge is a genius at empowering creatives, helping you get through impostor syndrome, how to talk to clients, and much more. I love that it's practical, powerful, and fun. Business doesn't all have to be serious.
 
 While her main blog is a treasure-trove of "humorous business advice", Unf\*ckwithable Girlfriends gets more intimate as Ash mentors you to get over your own demons, how to start a business, and live a good life.
 
@@ -56,4 +58,26 @@ Some of Ash's workshops that I'm drooling over:
 ![How to Get Your First Clients When You Have No Portfolio, No Experience & No Idea Where to Start](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f31395f-2edc-47ac-be9b-a922a05a5f7e.jpg)
 ![Sales Call Phone Etiquette: How to Get On the Phone & Close the Deal With a Prospective Client—Without Sounding Like a Nervous, Unprofessional, Amateur Wreck](https://the-grid-user-content.s3-us-west-2.amazonaws.com/563fbd66-e0cc-469e-8488-18822b88bfb2.jpg)
 
+# Web Design Tools
+
+## [Strikingly][1]
+
+I am in love with this platform and wish it could do everything Wordpress does so that I can finally just focus on websites. It's a breeze to use and it's quite stable and reliable.
+
+## [XPRS][2]
+
+Designed for creatives, they offer premium websites for artists and creatives for FREE. This is where my main design website lives.
+
+Sometimes it can still be a little buggy but no issues.
+
+# Social Media Tools
+
+Check out some great tools at: [http://blog.eightcorners.co/social-media-tools][3]
+
+  
+
+
 [0]: http://quoteinvestigator.com/2013/03/06/artists-steal/
+[1]: http://a.strk.ly/cnhNG
+[2]: imcreator.com/
+[3]: http://blog.eightcorners.co/social-media-tools
