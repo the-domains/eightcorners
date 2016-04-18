@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "For the past few years, I've realised that for creatives (web designers, graphic designers, photographers, copywriters and writers), starting a business is tougher than anything else I've ever attempted in my life."
-datePublished: '2016-04-18T04:54:36.582Z'
-dateModified: '2016-04-18T04:54:24.994Z'
+datePublished: '2016-04-18T11:47:46.290Z'
+dateModified: '2016-04-18T11:47:40.906Z'
 title: Creative Business Resources
 author: []
 sourcePath: _posts/2016-04-13-creative-business-resources.md
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 # Creative Business Resources
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0372797-4fcf-44a5-b922-14fb0ca369e2.jpg)
 
 For the past few years, I've realised that for creatives (web designers, graphic designers, photographers, copywriters and writers), starting a business is tougher than anything else I've ever attempted in my life.
 
@@ -73,9 +74,6 @@ Sometimes it can still be a little buggy but no issues.
 # Social Media Tools
 
 Check out some great tools at: [http://blog.eightcorners.co/social-media-tools][3]
-
-  
-
 
 [0]: http://quoteinvestigator.com/2013/03/06/artists-steal/
 [1]: http://a.strk.ly/cnhNG
