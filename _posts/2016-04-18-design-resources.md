@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-18T11:42:57.241Z'
-dateModified: '2016-04-18T11:42:36.785Z'
+datePublished: '2016-04-18T11:52:34.770Z'
+dateModified: '2016-04-18T11:43:06.023Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-18-design-resources.md
