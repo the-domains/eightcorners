@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'In December, we had these free Jetstar tickets to use that were about to expire at the end of the year. We could use the free tickets to just about any destination in the Jetstar network, so we looked for places that was far enough to maximise the ticket value, but not too far that we lose so much time in the air. We only had one weekend to spare after having just come back from a big trip. It is at this point that we decided to go to Queenstown, NZ.'
-datePublished: '2016-04-18T06:15:54.000Z'
-dateModified: '2016-04-18T06:15:44.532Z'
+datePublished: '2016-04-18T06:44:53.423Z'
+dateModified: '2016-04-18T06:44:46.349Z'
 title: The Southern Alps
 author: []
+sourcePath: _posts/2016-04-18-the-southern-alps.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-the-southern-alps.md
-published: true
 url: the-southern-alps/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbd220f4-7146-4282-b7c0-15fb0bfc3886.jpg)
+
 In December, we had these free Jetstar tickets to use that were about to expire at the end of the year. We could use the free tickets to just about any destination in the Jetstar network, so we looked for places that was far enough to maximise the ticket value, but not too far that we lose so much time in the air. We only had one weekend to spare after having just come back from a big trip. It is at this point that we decided to go to Queenstown, NZ.
 
 # The Southern Alps
