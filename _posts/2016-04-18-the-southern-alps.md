@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'In December, we had these free Jetstar tickets to use that were about to expire at the end of the year. We could use the free tickets to just about any destination in the Jetstar network, so we looked for places that was far enough to maximise the ticket value, but not too far that we lose so much time in the air. We only had one weekend to spare after having just come back from a big trip. It is at this point that we decided to go to Queenstown, NZ.'
-datePublished: '2016-04-18T06:46:50.480Z'
-dateModified: '2016-04-18T06:46:32.930Z'
+datePublished: '2016-04-18T06:49:21.991Z'
+dateModified: '2016-04-18T06:49:16.843Z'
 title: The Southern Alps
 author: []
 sourcePath: _posts/2016-04-18-the-southern-alps.md
