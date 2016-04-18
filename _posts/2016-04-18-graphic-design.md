@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Everybody knows Canva. It's great for quick graphics and inspiration."
-datePublished: '2016-04-18T05:42:06.747Z'
-dateModified: '2016-04-18T05:41:48.086Z'
+description: "Everybody knows Canva. It's great for quick graphics and inspiration. With Canva for work, you get the convenience of having consistent visuals. But if you prefer to use it for free, check out Design Feed (a tool I've classified under social media due to its main purpose of providing ease for generating social media graphics)."
+datePublished: '2016-04-18T06:25:20.548Z'
+dateModified: '2016-04-18T06:25:17.149Z'
 title: Graphic Design
 author: []
+sourcePath: _posts/2016-04-18-graphic-design.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-graphic-design.md
-published: true
 url: graphic-design/index.html
 _type: Article
 
@@ -28,11 +28,7 @@ _type: Article
 
 ## Canva
 
-Everybody knows Canva. It's great for quick graphics and inspiration.
-
-## Adobe Illustrator
-
-This is the godfather of all graphic design software. It's a bit of a learning curve but if you want to go pro, you probably need to invest the time to learn it.
+Everybody knows Canva. It's great for quick graphics and inspiration. With Canva for work, you get the convenience of having consistent visuals. But if you prefer to use it for free, check out Design Feed (a tool I've classified under social media due to its main purpose of providing ease for generating social media graphics).
 
 ## Sketch by Bohemian Coding
 
@@ -40,16 +36,33 @@ Used and designed for UI/UX designers, this Mac-only app makes the workflow so m
 
 # Typesetting, Book Design & eBooks
 
-## Adobe InDesign
-
-Used by the pros. Don't let that stop you (if a newbie), a few tutorials on Youtube and a few hours of practice should get you started on 
-
 ## Pages
 
-If you're not an Adobe InDesign afficionado, Pages is a viable alternative. You can even transform your work into ePub as necessary.
+If Adobe InDesign scares the heck out of you, Pages is a viable alternative. You can even transform your work into ePub as necessary.
+
+## Google Slides
+
+After a recent makeover, Google has some very modern and delectable templates that you can use for slides and even PDF eBooks.
 
 # Typography
 
-Type-scale.com
+## [Type Scale][0]
 
-The League of Moveable Type
+Great resource for choosing typefaces and font styles and sizes.
+
+## [The League of Moveable Type][1]
+
+My go-to resource for beautiful typefaces carefully curated by professional typographers and designers.
+
+# Bonus: Design Essentials/Non-Hacks
+
+## Adobe Illustrator
+
+This is the godfather of all graphic design software. It's a bit of a learning curve but if you want to go pro, you probably need to invest the time to learn it.
+
+## Adobe InDesign
+
+Used by the pros for print formatting and typesetting. 
+
+[0]: Type-scale.com
+[1]: https://www.theleagueofmoveabletype.com/
