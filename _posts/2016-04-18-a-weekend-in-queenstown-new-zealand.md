@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: 'In December, we had these free Jetstar tickets to use that were about to expire at the end of the year. We could use the free tickets to just about any destination in the Jetstar network, so we looked for places that was far enough to maximise the ticket value, but not too far that we lose so much time in the air. We only had one weekend to spare after having just come back from a big trip. It is at this point that we decided to go to Queenstown, NZ.'
-datePublished: '2016-04-18T12:48:05.436Z'
-dateModified: '2016-04-18T12:35:54.413Z'
+datePublished: '2016-04-24T02:57:55.407Z'
+dateModified: '2016-04-24T02:57:54.572Z'
 title: 'A Weekend in Queenstown, New Zealand'
 author: []
+sourcePath: _posts/2016-04-18-a-weekend-in-queenstown-new-zealand.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-a-weekend-in-queenstown-new-zealand.md
-published: true
+starred: false
 url: a-weekend-in-queenstown-new-zealand/index.html
 _type: Article
 
@@ -56,7 +56,6 @@ We then checked into Sherwood which was an environmentally-friendly hotel/lodge 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/295ba876-d9fb-4651-9cc4-49aa35151406.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80fb03bf-4208-4a1e-8eb6-2945b0280809.jpg)
 
-  
 ## Arrowtown Chinese Settlement
 
 The next day, we headed to the Arrowtown Chinese Settlement. It looked like Hobbiton with little huts, albeit with a very sad history.
