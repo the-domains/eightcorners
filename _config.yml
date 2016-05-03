@@ -13,14 +13,14 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.1068743
+  saturation: 1
   brandStrength: 0.1875
-  lightness: 0
+  lightness: 1
   brandColors:
     - '#000000'
     - '#ffffff'
     - '#3f3f3f'
-  rhythmicContrast: 0
+  rhythmicContrast: 0.1154672
 cta:
   bucket: null
   version: null
@@ -29,8 +29,8 @@ analytics:
   twitter: null
   google: UA-17071199-1
   facebook: null
-name: Eight Corners
 favicon: null
+name: Eight Corners
 opengraph:
   image: null
   type: null
