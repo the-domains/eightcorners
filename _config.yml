@@ -1,6 +1,6 @@
 name: Eight Corners
 favicon: null
-layout_spectrum: 0.39431
+layout_spectrum: 0.74684
 typography_spectrum: 0.37616
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#000000'
     - '#afafaf'
     - '#7f7f7f'
-  brandStrength: 0.375
+  brandStrength: 0.1875
   lightness: 1
   saturation: 1
   rhythmicContrast: 0
