@@ -6,21 +6,21 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 1
   brandStrength: 0.1875
-  lightness: 1
+  rhythmicContrast: 1
   brandColors:
     - '#000000'
     - '#ffffff'
     - '#3f3f3f'
-  rhythmicContrast: 1
+  lightness: 1
 cta:
   bucket: null
   version: null
@@ -29,11 +29,11 @@ analytics:
   twitter: null
   google: UA-17071199-1
   facebook: null
-favicon: null
 name: Eight Corners
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.8877551
-layout_spectrum: 1
+typography_spectrum: 0.5332975
+layout_spectrum: 0.7964554
