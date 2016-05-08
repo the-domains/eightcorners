@@ -6,9 +6,11 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Best-selling Copywriting & Design Course for Business Owners'
-datePublished: '2016-05-08T02:26:01.293Z'
-dateModified: '2016-05-08T02:25:46.248Z'
-author: []
+datePublished: '2016-05-08T02:28:33.427Z'
+dateModified: '2016-05-08T02:26:09.745Z'
+author:
+  - name: 'Ash Ambirge | The Middle Finger Project'
+    url: 'http://mbsy.co/dcs2n?url=http://themiddlefingerproject.org/'
 title: Brandgasm
 sourcePath: _posts/2016-05-08-brandgasm.md
 authors: []
