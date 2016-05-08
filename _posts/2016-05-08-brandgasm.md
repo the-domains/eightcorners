@@ -1,15 +1,24 @@
 ---
-author: []
-title: Brandgasm
-description: 'Best-selling Copywriting & Design Course for Business Owners'
-dateModified: '2016-05-08T00:37:33.005Z'
-datePublished: '2016-05-08T00:38:53.320Z'
-starred: false
-sourcePath: _posts/2016-05-08-brandgasm.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: 'Best-selling Copywriting & Design Course for Business Owners'
+datePublished: '2016-05-08T02:26:01.293Z'
+dateModified: '2016-05-08T02:25:46.248Z'
+author: []
+title: Brandgasm
+sourcePath: _posts/2016-05-08-brandgasm.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+_type: Blurb
 
 ---
 # Brandgasm
