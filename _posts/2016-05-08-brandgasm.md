@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Best-selling Copywriting & Design Course for Business Owners'
-datePublished: '2016-05-11T22:55:52.292Z'
-dateModified: '2016-05-11T22:55:49.019Z'
+datePublished: '2016-05-11T22:57:15.470Z'
+dateModified: '2016-05-11T22:56:08.338Z'
 author:
   - name: 'Ash Ambirge | The Middle Finger Project'
     url: 'http://mbsy.co/dcs2n?url=http://themiddlefingerproject.org/'
