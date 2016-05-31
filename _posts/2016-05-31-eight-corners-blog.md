@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "A designer's life."
-datePublished: '2016-05-31T14:22:35.422Z'
-dateModified: '2016-05-31T14:22:23.302Z'
+datePublished: '2016-05-31T14:23:02.849Z'
+dateModified: '2016-05-31T14:22:58.719Z'
 title: Eight Corners Blog
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-31-eight-corners-blog.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-31-eight-corners-blog.md
 url: eight-corners-blog/index.html
 _type: Article
 
