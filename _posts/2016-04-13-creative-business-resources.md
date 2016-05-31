@@ -5,19 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "For the past few years, I've realised that for creatives (web designers, graphic designers, photographers, copywriters and writers), starting a business is tougher than anything else I've ever attempted in my life."
-datePublished: '2016-04-22T11:52:10.642Z'
-dateModified: '2016-04-22T11:51:47.028Z'
+datePublished: '2016-05-31T14:24:15.455Z'
+dateModified: '2016-05-31T14:24:11.544Z'
 title: Creative Business Resources
 author: []
 sourcePath: _posts/2016-04-13-creative-business-resources.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: true
+publisher: null
+starred: false
 url: creative-business-resources/index.html
 _type: Article
 
