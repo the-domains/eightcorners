@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'In my last post, I wrote about our once-in-a-lifetime suite class flight experience with Singapore Airlines.'
-datePublished: '2016-05-31T11:30:05.961Z'
-dateModified: '2016-05-31T11:29:48.812Z'
+datePublished: '2016-05-31T12:39:40.566Z'
+dateModified: '2016-05-31T12:39:26.689Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-31-in-my-last-post-i-wrote-about-our-once-in-a-lifetime-suite.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-31-in-my-last-post-i-wrote-about-our-once-in-a-lifetime-suite.md
 url: in-my-last-post-i-wrote-about-our-once-in-a-lifetime-suite/index.html
 _type: Article
 
