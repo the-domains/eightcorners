@@ -4,7 +4,7 @@
         <description><![CDATA[Eight Corners]]></description>
         <link>http://blog.eightcorners.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 10:48:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 11:30:16 GMT</lastBuildDate>
         <atom:link href="http://blog.eightcorners.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Creative Business Resources]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.eightcorners.co/creative-business-resources/index.html</link>
             <guid isPermaLink="false">e6df3593-a1ff-42e2-9fd5-4f0966964a44</guid>
             <pubDate>Fri, 22 Apr 2016 11:52:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7c76efe-786f-4a7e-bbbe-72d085334550.jpg">]]></description>
+            <link>http://blog.eightcorners.co/in-my-last-post-i-wrote-about-our-once-in-a-lifetime-suite/index.html</link>
+            <guid isPermaLink="false">6a8185f3-8680-4291-b61a-5a5bdcec545c</guid>
+            <pubDate>Tue, 31 May 2016 11:30:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Better Than First: The Singapore Airlines Suite Class Experience]]></title>
@@ -68,13 +75,6 @@
             <link>http://blog.eightcorners.co/design-hacks-for-your-business/index.html</link>
             <guid isPermaLink="false">737b21e2-969a-44e3-957d-cb4f41a8f2f5</guid>
             <pubDate>Tue, 29 Mar 2016 00:31:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How I Planned My Dream Destination Wedding in Palawan]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/138e6c39-f310-4bbc-a537-3933f2493cd1.jpg">]]></description>
-            <link>http://blog.eightcorners.co/how-i-planned-my-dream-destination-wedding-in-palawan/index.html</link>
-            <guid isPermaLink="false">74fe7ed2-b3cc-4152-bbb5-bac471c86d81</guid>
-            <pubDate>Tue, 22 Mar 2016 04:42:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
