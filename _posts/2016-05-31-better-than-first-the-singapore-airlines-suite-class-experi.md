@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The Singapore Airlines Suite Class Experience
-datePublished: '2016-05-31T10:48:43.069Z'
-dateModified: '2016-05-31T10:48:12.526Z'
+datePublished: '2016-05-31T14:14:55.946Z'
+dateModified: '2016-05-31T14:14:28.022Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-31-better-than-first-the-singapore-airlines-suite-class-experi.md
@@ -17,7 +17,7 @@ url: better-than-first-the-singapore-airlines-suite-class-experi/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c53a24a2-46e9-4513-8adc-3383ecfd237e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f03a89c3-7413-4afd-ab6e-0115aabee175.jpg)
 
 The Singapore Airlines Suite Class Experience
 
@@ -51,8 +51,9 @@ I would have loved to give you a comparison of First Class and Suite Class, but 
 ![Marinated Chicken with Spicy Garlic Sauce](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad8c2537-01e9-43f3-85de-77b24de770e7.jpg)
 ![Ice Cream with Chocolate Shavings](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8af6d8ed-347d-4996-be5b-b1d1cda37092.jpg)
 ![Chocolate and Strawberry Ice Cream with Chocolate Shavings](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34955eb1-fe46-4545-bfd3-33c7d51cf080.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5856ec6c-6959-4e08-8809-fa092115bb96.jpg)
+![Sautéed Lobster with Linguine](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5856ec6c-6959-4e08-8809-fa092115bb96.jpg)
 
 And the price tag for the above? A whopping AUD$13000 for a return flight. Luckily, we didn't pay that much. In fact, we only paid for the taxes and fees. It was largely the result of strategically earning airline miles with our credit cards, over five years.
 
 If you're wondering how we scored these tickets, I'm revealing our strategy on how to maximise your airline miles earnings on my next post.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60448171-aaef-4192-ac11-69dd35df761b.jpg)
