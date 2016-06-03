@@ -4,7 +4,7 @@
         <description><![CDATA[Eight Corners]]></description>
         <link>http://blog.eightcorners.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 11:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 13:53:38 GMT</lastBuildDate>
         <atom:link href="http://blog.eightcorners.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Eight Corners Blog]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.eightcorners.co/eight-corners-blog/index.html</link>
             <guid isPermaLink="false">db7dc2b4-af93-4034-aeaa-5d0d9c21ab97</guid>
             <pubDate>Wed, 01 Jun 2016 11:07:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Ding, Ding, Ding! You Can Have Fun Now!"]]></title>
+            <description><![CDATA[<article><h1>"Ding, Ding, Ding! You Can Have Fun Now!"</h1><p>Could not resolve: urls.api.twitter.com (Domain name not found) I'm going to England tomorrow. By which I mean I'm stepping inside a long metal torpedo and sitting my fat ass down on some murky blue pleather for an exact distance of 5,429 miles across a cold, dreary ocean that always makes me wonder things I shouldn't ever wonder.</p></article>]]></description>
+            <link>https://www.themiddlefingerproject.org/ding-ding-ding-you-can-have-fun-now/</link>
+            <guid isPermaLink="false">abb24387-b2b6-470d-b85a-73abf814edfa</guid>
+            <pubDate>Fri, 03 Jun 2016 13:53:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Creative Business Resources]]></title>
@@ -68,13 +75,6 @@
             <link>http://blog.eightcorners.co/ladies-travel-kit/index.html</link>
             <guid isPermaLink="false">ab67c770-6f3e-4a03-869e-cf289e16bb5b</guid>
             <pubDate>Fri, 22 Apr 2016 11:41:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Embrace the Emptiness]]></title>
-            <description><![CDATA[<article><h1>Embrace the Emptiness</h1><p>There is so much noise in this world. So many things are wanting our attention.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fa130edd7ccdf0da11beb2084040c16ca70d955.jpg"></article>]]></description>
-            <link>http://blog.eightcorners.co/embrace-the-emptiness/index.html</link>
-            <guid isPermaLink="false">78ca5c62-3fc4-433e-9df9-ebc32f029bc4</guid>
-            <pubDate>Tue, 29 Mar 2016 11:27:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
