@@ -11,8 +11,8 @@ description: >-
   if you prefer to use it for free, check out Design Feed (a tool I've
   classified under social media due to its main purpose of providing ease for
   generating social media graphics).
-datePublished: '2016-06-09T01:15:41.636Z'
-dateModified: '2016-06-09T01:15:28.551Z'
+datePublished: '2016-06-09T01:19:49.208Z'
+dateModified: '2016-06-09T01:19:21.758Z'
 title: Graphic Design
 author: []
 sourcePath: _posts/2016-04-18-graphic-design.md
@@ -68,7 +68,7 @@ Another great Canva alternative that's super simple, and includes some cool FB A
 
 # Sketching, Drawings, & Calligraphing
 
-## 8\. [Sketches by Tayasui][8]
+## 9\. [Sketches by Tayasui][8]
 
 My favourite iPad app. It is literally my drawing board for designing logos, sketching some ideas, and handwriting/calligraphy quotes.
 
