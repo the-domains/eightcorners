@@ -4,19 +4,20 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "Almost everybody knows Canva, but I'm still including it as a hack for those who don't know about it yet. It's great for quick graphics and inspiration. With Canva for work, you get the convenience of having consistent visuals. But if you prefer to use it for free, check out Design Feed (a tool I've classified under social media due to its main purpose of providing ease for generating social media graphics)."
-datePublished: '2016-04-24T02:58:09.179Z'
-dateModified: '2016-04-24T02:58:08.754Z'
+description: >-
+  Almost everybody knows Canva, but I'm still including it as a hack for those
+  who don't know about it yet. It's great for quick graphics and inspiration.
+  With Canva for work, you get the convenience of having consistent visuals. But
+  if you prefer to use it for free, check out Design Feed (a tool I've
+  classified under social media due to its main purpose of providing ease for
+  generating social media graphics).
+datePublished: '2016-06-09T01:15:41.636Z'
+dateModified: '2016-06-09T01:15:28.551Z'
 title: Graphic Design
 author: []
 sourcePath: _posts/2016-04-18-graphic-design.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: graphic-design/index.html
 _type: Article
@@ -61,9 +62,13 @@ My go-to resource for beautiful typefaces carefully curated by professional typo
 
 I now use design feed more often because it intelligently and beautifully reformats your text to optimal social media graphic sizes. You can add logos, buttons, URL, etc. It's just made life so much easier than my life with Canva. I am super happy.
 
+## 8\. [Snappa.io][7]
+
+Another great Canva alternative that's super simple, and includes some cool FB Ad designs.
+
 # Sketching, Drawings, & Calligraphing
 
-## 8\. [Sketches by Tayasui][7]
+## 8\. [Sketches by Tayasui][8]
 
 My favourite iPad app. It is literally my drawing board for designing logos, sketching some ideas, and handwriting/calligraphy quotes.
 
@@ -84,4 +89,5 @@ Used by the pros for print formatting and typesetting. Definitely worth the time
 [4]: Type-scale.com
 [5]: https://www.theleagueofmoveabletype.com/
 [6]: https://app.designfeed.io/
-[7]: http://www.tayasui.com/sketches/
+[7]: https://snappa.io/
+[8]: http://www.tayasui.com/sketches/
