@@ -11,8 +11,8 @@ description: >-
   if you prefer to use it for free, check out Design Feed (a tool I've
   classified under social media due to its main purpose of providing ease for
   generating social media graphics).
-datePublished: '2016-06-09T01:19:49.208Z'
-dateModified: '2016-06-09T01:19:21.758Z'
+datePublished: '2016-06-09T01:21:11.819Z'
+dateModified: '2016-06-09T01:21:11.111Z'
 title: Graphic Design
 author: []
 sourcePath: _posts/2016-04-18-graphic-design.md
