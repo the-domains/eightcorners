@@ -4,7 +4,7 @@
         <description><![CDATA[Eight Corners]]></description>
         <link>http://blog.eightcorners.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 23:39:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 01:15:51 GMT</lastBuildDate>
         <atom:link href="http://blog.eightcorners.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Eight Corners Blog]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.eightcorners.co/eight-corners-blog/index.html</link>
             <guid isPermaLink="false">db7dc2b4-af93-4034-aeaa-5d0d9c21ab97</guid>
             <pubDate>Wed, 01 Jun 2016 11:07:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Graphic Design]]></title>
+            <description><![CDATA[<article><h1>Graphic Design</h1><h2>1. Canva</h2><p>Almost everybody knows Canva, but I'm still including it as a hack for those who don't know about it yet. It's great for quick graphics and inspiration. With Canva for work, you get the convenience of having consistent visuals. But if you prefer to use it for free, check out Design Feed (a tool I've classified under social media due to its main purpose of providing ease for generating social media graphics).</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16fbc7ca-b365-4a5f-9a8a-f400343f925b.jpg"></article>]]></description>
+            <link>http://blog.eightcorners.co/graphic-design/index.html</link>
+            <guid isPermaLink="false">25d47bfb-f31d-42b1-9fde-33446be2c519</guid>
+            <pubDate>Thu, 09 Jun 2016 01:15:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Ding, Ding, Ding! You Can Have Fun Now!"]]></title>
@@ -54,13 +61,6 @@
             <link>http://blog.eightcorners.co/brandgasm-101/index.html</link>
             <guid isPermaLink="false">4cb94aae-9771-4c9c-949d-709a977f7b37</guid>
             <pubDate>Thu, 12 May 2016 07:03:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Graphic Design]]></title>
-            <description><![CDATA[<article><h1>Graphic Design</h1><h2>1. Canva</h2><p>Almost everybody knows Canva, but I'm still including it as a hack for those who don't know about it yet. It's great for quick graphics and inspiration. With Canva for work, you get the convenience of having consistent visuals. But if you prefer to use it for free, check out Design Feed (a tool I've classified under social media due to its main purpose of providing ease for generating social media graphics).</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16fbc7ca-b365-4a5f-9a8a-f400343f925b.jpg"></article>]]></description>
-            <link>http://blog.eightcorners.co/graphic-design/index.html</link>
-            <guid isPermaLink="false">25d47bfb-f31d-42b1-9fde-33446be2c519</guid>
-            <pubDate>Sun, 24 Apr 2016 02:58:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Weekend in Queenstown, New Zealand]]></title>
