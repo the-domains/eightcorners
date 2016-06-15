@@ -1,7 +1,7 @@
 ---
 description: Musings on exploring New York through the eyes of a local.
-dateModified: '2016-06-15T13:05:32.154Z'
-datePublished: '2016-06-15T13:05:36.642Z'
+dateModified: '2016-06-15T13:25:30.882Z'
+datePublished: '2016-06-15T13:26:00.582Z'
 title: New York Like A Local
 author: []
 sourcePath: _posts/2016-06-15-new-york-like-a-local.md
@@ -44,23 +44,23 @@ How Chelsea Market is so old and dark and yet so sleek and full of character.
 
 How a huge park is smack in the middle of the city. With a castle.
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/208135859590d998e3124cb070ebf5f2/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2FCfeCwXciL16XAcwhGrz1YhkKi-LJQYtvf90spmBAYzhFDpO4wOITuWH7AEvncuggZfGEWdcKpYOdRA%3Dw600-h315-p-k" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/208135859590d998e3124cb070ebf5f2/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2FCfeCwXciL16XAcwhGrz1YhkKi-LJQYtvf90spmBAYzhFDpO4wOITuWH7AEvncuggZfGEWdcKpYOdRA%3Dw600-h315-p-k" /></article>
 
 How unlike other old and dirty subway stations in other cities, I don't cringe as I'm reminded of its history and the immigrants that helped build it.
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a38b8da93636f439f763c48d5f21b99141e77959.jpg" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a38b8da93636f439f763c48d5f21b99141e77959.jpg" /></article>
 
 It's the setting where Carrie Bradshaw taught me how to celebrate singlehood, to appreciate Italian shoes, and to be fabulous.
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29d17386ee67a9a93f9ef2a51e094f5c184a9832.jpg" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29d17386ee67a9a93f9ef2a51e094f5c184a9832.jpg" /></article>
 
 And to celebrate love and friendship, and life's ups and downs (reminiscent of Carrie's 35th birthday), end enjoy life, as we had dinner at Il Cantinori for my birthday.
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19326e4a39fd1027b5fdc0a507e4bfee5f994987.jpg" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19326e4a39fd1027b5fdc0a507e4bfee5f994987.jpg" /></article>
 
 How magical the Lincoln Center looks at night.
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b5f7a0e785e9bd32fdcae2395b3e1556282f590.jpg" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b5f7a0e785e9bd32fdcae2395b3e1556282f590.jpg" /></article>
 
 The beautiful libraries.
 
@@ -90,23 +90,23 @@ The beautiful brownstones and their front steps.
 
 How it always looks so cool in black and white. ;)
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fea2368c3303a7198f9b4cd58736975849b0a646.jpg" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fea2368c3303a7198f9b4cd58736975849b0a646.jpg" /></article>
 
 How Coney Island that day we went was full of Jewish families in their beautiful black hats (shtreimel and kippahs) and coats as they celebrated passover with their families at Luna Park.
 
 How we walked down to Brighton Beach and the entire scenery changed to locals, of Russian and...Chinese descent, and we were the only tourists.
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9456555db5bec302b2def47a615f67efdd57691.jpg" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9456555db5bec302b2def47a615f67efdd57691.jpg" /></article>
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8577f9bd2f1f3a7f66757613815bf2b90d5c07a8.jpg" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8577f9bd2f1f3a7f66757613815bf2b90d5c07a8.jpg" /></article>
 
 It's the variety of sights, sounds, and cultures.
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6d3e51dd2cf50ef1e4ca48e1224ae29d585a342.jpg" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6d3e51dd2cf50ef1e4ca48e1224ae29d585a342.jpg" /></article>
 
 And most of all, how New York always, without fail, remind me of the American dream.
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2ce06a3e39ed531bde49ac6c184b62ee5cfa987.jpg" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2ce06a3e39ed531bde49ac6c184b62ee5cfa987.jpg" /></article>
 
 Of possibilities.
 
@@ -114,6 +114,6 @@ Of possibilities.
 
 Of hope.
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fa380380a54413326f5b7867b99cace9bd6020f.jpg" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fa380380a54413326f5b7867b99cace9bd6020f.jpg" /></article>
 
 Of love.
