@@ -1,7 +1,7 @@
 ---
 description: Musings on exploring New York through the eyes of a local.
-dateModified: '2016-06-15T12:45:05.113Z'
-datePublished: '2016-06-15T12:45:09.077Z'
+dateModified: '2016-06-15T13:05:32.154Z'
+datePublished: '2016-06-15T13:05:36.642Z'
 title: New York Like A Local
 author: []
 sourcePath: _posts/2016-06-15-new-york-like-a-local.md
@@ -24,15 +24,15 @@ The thing is, in our travels, we tend to enjoy the smaller cities and towns the 
 
 But New York, is not like any other city. It's not about the tourist traps. It's about all the following things that locals love about it:
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd7c6c6d66c2bca9381d490154619e17/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2Fo3LkKjc511NadRKCbRQ3ixTKHpFD8_sPRRykIwt_JfoUxjKuTOGxDSFc6Ppzmh7O-nPsMfeDIjJQuA%3Dw600-h315-p-k" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd7c6c6d66c2bca9381d490154619e17/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2Fo3LkKjc511NadRKCbRQ3ixTKHpFD8_sPRRykIwt_JfoUxjKuTOGxDSFc6Ppzmh7O-nPsMfeDIjJQuA%3Dw600-h315-p-k" /></article>
 
 It's how Joe's pizza matches the "world's best pizza" at Crown Casino, Melbourne at a fraction of the cost.
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/44137c5d078524356122129bf3408525/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2F9nq9NyUUgf0ZHL-J4W4x0LNbdbMeb4w08NTCbyt-68bQzlxFXAGMFCRDLHo3fULFI__BHq8TbAiAvQ%3Dw600-h315-p-k" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/44137c5d078524356122129bf3408525/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2F9nq9NyUUgf0ZHL-J4W4x0LNbdbMeb4w08NTCbyt-68bQzlxFXAGMFCRDLHo3fULFI__BHq8TbAiAvQ%3Dw600-h315-p-k" /></article>
 
 How they put artichokes in pizza and managed to make it so addicting...instead of weird.
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cba766e0d2632432ae2c1c3b60b1d0b6/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2FnXMXKp0FcVoqoc3imePtDVAJugJJ9B0Wule24IPm39uTanQ3gXQO-qXsfxaeOavmJz10rDZm2vM5CQ%3Dw600-h315-p-k" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cba766e0d2632432ae2c1c3b60b1d0b6/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2FnXMXKp0FcVoqoc3imePtDVAJugJJ9B0Wule24IPm39uTanQ3gXQO-qXsfxaeOavmJz10rDZm2vM5CQ%3Dw600-h315-p-k" /></article>
 
 How you can have one of the western world's cheapest dinner dates at Gray's Papaya with two hotdogs and a papaya drink.
 
@@ -64,27 +64,27 @@ How magical the Lincoln Center looks at night.
 
 The beautiful libraries.
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5ceb0ac9786e6c4b55c7563eb340701a/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2FxkD7tTnMAG1tLDwPlG6xj8C3ELn-xs3E5hzvQfDhRqcWecbrEFMbhAdIhwkG-gK0yK9nsXkzIqhwaA%3Dw600-h315-p-k" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5ceb0ac9786e6c4b55c7563eb340701a/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2FxkD7tTnMAG1tLDwPlG6xj8C3ELn-xs3E5hzvQfDhRqcWecbrEFMbhAdIhwkG-gK0yK9nsXkzIqhwaA%3Dw600-h315-p-k" /></article>
 
 How it showcases the chicest shade of urban yellow.
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4701ef2a3674f58fb9c5fa3cfeee498e/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2FjXBdcOz8QoxeTjDcEyMSz5KDqEwAG4EcIy2BBA1SqH_Kld4VDx-prfFjDlOoJ3Qa2hOoKOeMMi2x-g%3Dw600-h315-p-k" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4701ef2a3674f58fb9c5fa3cfeee498e/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2FjXBdcOz8QoxeTjDcEyMSz5KDqEwAG4EcIy2BBA1SqH_Kld4VDx-prfFjDlOoJ3Qa2hOoKOeMMi2x-g%3Dw600-h315-p-k" /></article>
 
 How the city is awash with colour as tulips and cherry blossoms bloomed everywhere in spring.
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a51b23d2039bee7300001138dc799877/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2FO8S7wKmPH2vmqjADskzP6kIpMflvqsC-VU5tjaaE9XiHvm_d6MTC2-Nzbo8EjPs0mPRHU9yrZV3QDA%3Dw600-h315-p-k" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a51b23d2039bee7300001138dc799877/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2FO8S7wKmPH2vmqjADskzP6kIpMflvqsC-VU5tjaaE9XiHvm_d6MTC2-Nzbo8EjPs0mPRHU9yrZV3QDA%3Dw600-h315-p-k" /></article>
 
 How Upper West Side/Bronx reminded me of "Jenny from the Block" song.
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ddc4e44f59fcbf6b0df058362a08501c/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2Fp2RTiv48fyE7V4rTo7EVruwYaB_xtCzM2U9P07vhiw9cOb5TWgzBgBJQcXF20aOXpsqaVVX9YCOigw%3Dw600-h315-p-k" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ddc4e44f59fcbf6b0df058362a08501c/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2Fp2RTiv48fyE7V4rTo7EVruwYaB_xtCzM2U9P07vhiw9cOb5TWgzBgBJQcXF20aOXpsqaVVX9YCOigw%3Dw600-h315-p-k" /></article>
 
 How Brooklyn feels so hip and upmarket.
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/23bcec631b6905c13afcbf1297a89f72313f5cbc.jpg" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/23bcec631b6905c13afcbf1297a89f72313f5cbc.jpg" /></article>
 
 The beautiful brownstones and their front steps.
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0260668e2d0df40a7bac779fdfbb84ff8201b27d.jpg" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0260668e2d0df40a7bac779fdfbb84ff8201b27d.jpg" /></article>
 
 <article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6246a3d751665af63bf90d598972b2c1/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2FmG3jNZX7B3JX80_H_pM7oVqU26xr7x_oLOuKwMMkDdjS9OS5NrLnTo64xRwLXDzFYd6M-d0acdEy5w%3Dw600-h315-p-k" /></article>
 
@@ -110,7 +110,7 @@ And most of all, how New York always, without fail, remind me of the American dr
 
 Of possibilities.
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90e4b6ef18868f6b2d38896e5b72cf4f25c16358.jpg" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90e4b6ef18868f6b2d38896e5b72cf4f25c16358.jpg" /></article>
 
 Of hope.
 
