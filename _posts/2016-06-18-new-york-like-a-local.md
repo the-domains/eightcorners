@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-06-23T08:43:33.931Z'
+datePublished: '2016-06-23T11:32:01.334Z'
 sourcePath: _posts/2016-06-18-new-york-like-a-local.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-23T08:43:27.776Z'
+dateModified: '2016-06-23T11:31:21.536Z'
 title: New York Like A Local
 publisher: null
 description: ''
@@ -27,11 +27,11 @@ Places we saw and food we ate as we explored New York like locals.
 
 It's not about the tourist traps. It's about all the following things that locals love about it:
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd7c6c6d66c2bca9381d490154619e17/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2Fo3LkKjc511NadRKCbRQ3ixTKHpFD8_sPRRykIwt_JfoUxjKuTOGxDSFc6Ppzmh7O-nPsMfeDIjJQuA%3Dw600-h315-p-k" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd7c6c6d66c2bca9381d490154619e17/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2Fo3LkKjc511NadRKCbRQ3ixTKHpFD8_sPRRykIwt_JfoUxjKuTOGxDSFc6Ppzmh7O-nPsMfeDIjJQuA%3Dw600-h315-p-k" /></article>
 
 It's how Joe's pizza matches the "world's best pizza" at Crown Casino, Melbourne at a fraction of the cost.
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/44137c5d078524356122129bf3408525/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2F9nq9NyUUgf0ZHL-J4W4x0LNbdbMeb4w08NTCbyt-68bQzlxFXAGMFCRDLHo3fULFI__BHq8TbAiAvQ%3Dw600-h315-p-k" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/44137c5d078524356122129bf3408525/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2F9nq9NyUUgf0ZHL-J4W4x0LNbdbMeb4w08NTCbyt-68bQzlxFXAGMFCRDLHo3fULFI__BHq8TbAiAvQ%3Dw600-h315-p-k" /></article>
 
 How they put artichokes in pizza and managed to make it so addicting...instead of weird.
 
