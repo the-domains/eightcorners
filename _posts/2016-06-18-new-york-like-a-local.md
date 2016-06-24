@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-06-24T12:17:25.254Z'
+datePublished: '2016-06-24T12:22:48.192Z'
 sourcePath: _posts/2016-06-18-new-york-like-a-local.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-24T12:14:56.331Z'
+dateModified: '2016-06-24T12:22:34.044Z'
 title: New York Like A Local
 publisher: null
 description: ''
@@ -83,38 +83,38 @@ How Upper West Side/Bronx reminded me of "Jenny from the Block" song.
 
 How Brooklyn feels so hip and upmarket.
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/23bcec631b6905c13afcbf1297a89f72313f5cbc.jpg" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/23bcec631b6905c13afcbf1297a89f72313f5cbc.jpg" /></article>
 
 The beautiful brownstones and their front steps.
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6246a3d751665af63bf90d598972b2c1/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2FmG3jNZX7B3JX80_H_pM7oVqU26xr7x_oLOuKwMMkDdjS9OS5NrLnTo64xRwLXDzFYd6M-d0acdEy5w%3Dw600-h315-p-k" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6246a3d751665af63bf90d598972b2c1/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2FmG3jNZX7B3JX80_H_pM7oVqU26xr7x_oLOuKwMMkDdjS9OS5NrLnTo64xRwLXDzFYd6M-d0acdEy5w%3Dw600-h315-p-k" /></article>
 
 How it always looks so cool in black and white. ;)
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fea2368c3303a7198f9b4cd58736975849b0a646.jpg" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fea2368c3303a7198f9b4cd58736975849b0a646.jpg" /></article>
 
 How Coney Island that day we went was full of Jews in their beautiful black hats (shtreimel and kippahs) and coats as they celebrated passover with their families at Luna Park.
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b60a1fa500bb1fb82eb882a742c103e5dc1dc5a.jpg" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b60a1fa500bb1fb82eb882a742c103e5dc1dc5a.jpg" /></article>
 
 How we walked down to Brighton Beach and the entire scenery changed to locals, of Russian and...Chinese descent, and we were the only tourists.
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9456555db5bec302b2def47a615f67efdd57691.jpg" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9456555db5bec302b2def47a615f67efdd57691.jpg" /></article>
 
 It's the variety of sights, sounds, and cultures.
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6d3e51dd2cf50ef1e4ca48e1224ae29d585a342.jpg" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6d3e51dd2cf50ef1e4ca48e1224ae29d585a342.jpg" /></article>
 
 And most of all, how New York always, without fail, remind me of the American dream.
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2ce06a3e39ed531bde49ac6c184b62ee5cfa987.jpg" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2ce06a3e39ed531bde49ac6c184b62ee5cfa987.jpg" /></article>
 
 Of possibilities.
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90e4b6ef18868f6b2d38896e5b72cf4f25c16358.jpg" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90e4b6ef18868f6b2d38896e5b72cf4f25c16358.jpg" /></article>
 
 Of hope.
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fa380380a54413326f5b7867b99cace9bd6020f.jpg" /><h1>New photo by G. O.</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fa380380a54413326f5b7867b99cace9bd6020f.jpg" /></article>
 
 Of love.
