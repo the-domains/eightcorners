@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-06-24T12:14:55.111Z'
+datePublished: '2016-06-24T12:17:25.254Z'
 sourcePath: _posts/2016-06-18-new-york-like-a-local.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-24T12:14:45.861Z'
+dateModified: '2016-06-24T12:14:56.331Z'
 title: New York Like A Local
 publisher: null
 description: ''
@@ -113,7 +113,7 @@ Of possibilities.
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90e4b6ef18868f6b2d38896e5b72cf4f25c16358.jpg" /><h1>New photo by G. O.</h1></article>
 
-Of hope in humanity.
+Of hope.
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fa380380a54413326f5b7867b99cace9bd6020f.jpg" /><h1>New photo by G. O.</h1></article>
 
