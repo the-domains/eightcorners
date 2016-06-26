@@ -1,25 +1,20 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-starred: false
-keywords: []
-description: Subscribe to Eight Corners
-datePublished: '2016-02-25T03:11:49.769Z'
-dateModified: '2016-02-25T03:11:41.298Z'
-title: Subscribe
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-06-26T16:07:30.082Z'
 sourcePath: _posts/2016-02-25-subscribe.md
-published: true
+inFeed: false
+authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-06-26T16:07:20.375Z'
+title: Eight Corners VIP Subscription
+publisher: null
+description: Eight Corners VIP Subscription Email Forms
+inLanguage: null
+inNav: true
+starred: false
 url: subscribe/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a6c3f43-ec6a-4f53-a5bf-071e8b475284.png)
+<article style=""><h1>Eight Corners VIP Subscription</h1><p>Eight Corners VIP Subscription Email Forms</p></article>
