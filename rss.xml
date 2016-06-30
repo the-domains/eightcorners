@@ -4,8 +4,15 @@
         <description><![CDATA[Eight Corners]]></description>
         <link>http://blog.eightcorners.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 12:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 05:55:58 GMT</lastBuildDate>
         <atom:link href="http://blog.eightcorners.co/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Work with templates, not against them]]></title>
+            <description><![CDATA[<article><h1>Work with templates, not against them</h1><p>#wordsofwinedom</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed1eed53-ce08-442f-a1ae-2031ae9ef8d3.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed1eed53-ce08-442f-a1ae-2031ae9ef8d3.jpg</link>
+            <guid isPermaLink="false">76d9cce6-e2b7-4657-bb29-762b780debeb</guid>
+            <pubDate>Thu, 30 Jun 2016 05:55:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New York Like A Local]]></title>
             <description><![CDATA[<article><h1>New York Like A Local</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bbd4088-49db-4db7-a90e-c85572ec16f2.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://blog.eightcorners.co/a-weekend-in-queenstown-new-zealand/index.html</link>
             <guid isPermaLink="false">b21ba61e-208c-4557-b706-64d71003f78e</guid>
             <pubDate>Sun, 24 Apr 2016 02:57:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ladies Travel Kit]]></title>
-            <description><![CDATA[<article><h1>Ladies Travel Kit</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/14f722f7-2c93-4901-be49-3f62df5016d5.jpg"></article>]]></description>
-            <link>http://blog.eightcorners.co/ladies-travel-kit/index.html</link>
-            <guid isPermaLink="false">ab67c770-6f3e-4a03-869e-cf289e16bb5b</guid>
-            <pubDate>Fri, 22 Apr 2016 11:41:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
