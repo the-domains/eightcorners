@@ -10,6 +10,7 @@ color:
     - '#4D4D4D'
     - '#333333'
   lightness: 0.37916453112848103
+github: true
 opengraph:
   image: null
   type: null
@@ -18,16 +19,15 @@ layout_spectrum: 0.4830248453654349
 analytics:
   twitter: null
   google: UA-17071199-1
-  facebook: null
+  facebook: '999007766816091'
 name: Eight Corners
 cta:
   bucket: null
   version: null
   domain: null
 navigation:
-  - id: 'http://eightcorners.co'
+  - name: Home
     url: 'http://eightcorners.co'
-    name: Home
     type: external
 favicon: null
 collections:
@@ -43,4 +43,9 @@ collections:
       format: rss
       number: 10
 title: Eight Corners
-purpose: []
+content: []
+description: 'Designer, traveller, flat white fanatic.'
+purpose:
+  - type: external
+    url: 'http://eightcorners.co'
+    label: Home
