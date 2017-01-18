@@ -49,3 +49,6 @@ purpose:
   - type: external
     url: 'http://eightcorners.co'
     label: Home
+  - type: external
+    url: 'https://paperform.co/form/appealing-brand'
+    label: 8 Simple Steps To Designing An Appealing Brand
