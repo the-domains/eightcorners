@@ -21,6 +21,7 @@ analytics:
   google: UA-17071199-1
   facebook: '999007766816091'
 name: Eight Corners
+url: 'http://xblog.eightcorners.co'
 cta:
   bucket: null
   version: null
